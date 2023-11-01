@@ -51,9 +51,9 @@ We need 20 host
 
 Host + Mask :192.168.1.0 / 27 
 The mask : 255.255.255.224
-hosts range : 192.168.1.1 - 192.168.1.31
-Gateway : 192.168.192.1 
-Brodcast : 192.168.192.31 
+hosts range : 192.168.1.1 - 192.168.1.30
+Gateway : 192.168.1.1 
+Brodcast : 192.168.1.30 
 
 <br>
 
@@ -74,9 +74,9 @@ so
 
 the host  + mask : 192.168.1.0/26
 mask : 255.255.255.192
-host range : 192.168.1.1 - 192.168.1.63
-Gateway : 192.168.192.1 
-Brodcast : 192.168.192.63
+host range : 192.168.1.1 - 192.168.1.62
+Gateway : 192.168.1.1   
+Brodcast : 192.168.1.62  
 
 
 <br>
@@ -92,9 +92,9 @@ We need  120 hosts
 32 - 7 = 25 
 Net + Musk = 192.168.1.0 / 25 
 musk : 255.255.255.128
-hosts range : 192.168.1.1 - 192.168.1.127
+hosts range : 192.168.1.1 - 192.168.1.126
 Gateway : 192.168.1.1 
-Brodcast : 192.168.1.127 
+Brodcast : 192.168.1.126
 
 
 <br>
